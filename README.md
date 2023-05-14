@@ -25,3 +25,5 @@ There is a *shared* pacakge with some reusable code for your exercies. If you ar
 ```zsh
 go get github.com/egbordzor/learn-glft/shared
 ```
+### Youtube Tutorial
+https://www.youtube.com/watch?v=0GkNxs_yMQ8&list=PL0aDKsruoiW3xmBvOsqeNehgg04uhvt0P
